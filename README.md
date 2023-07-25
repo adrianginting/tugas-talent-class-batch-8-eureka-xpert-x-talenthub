@@ -1,5 +1,5 @@
 # Talent Class Batch 8 Eureka Xpert x TalentHub
-Keseluruhan Tugas hari pertama hingga hari terakhir pelatihan Talenthub batch 8
+Keseluruhan Tugas hari pertama hingga hari terakhir pelatihan Talenthub batch 8<br>
 Sub Materi: 
 1. Pengenalan Pemrograman Android Apps
 2. Project Structure dan Komponen Android Studio IDE
